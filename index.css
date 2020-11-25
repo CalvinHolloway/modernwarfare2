@@ -1,0 +1,25 @@
+#header {
+  text-align: center;
+}
+#header_container {
+  text-align: center;
+}
+.image_container {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+  text-align: center;
+}
+#h3caption {
+  text-align: center;
+}
+#body_header {
+  text-align: center;
+}
+body {
+  background-color: #f4a460;
+}
+#caption {
+  text-align: center;
+}
